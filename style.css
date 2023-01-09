@@ -180,7 +180,7 @@ section{
     text-align: center;
 }
 
-.home .content h3{
+.home .content h3 {
     font-size: 7rem;
     color:var(--black);
     line-height: 1.1;
